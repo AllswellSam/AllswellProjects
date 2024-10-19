@@ -1,5 +1,4 @@
 # Name: Allswell Sam Obeng
-# ALY6000 Project 4
 # 1oth October 2024
 
 cat("\014") # clears console
