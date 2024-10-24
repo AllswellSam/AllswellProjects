@@ -1,6 +1,6 @@
 Overview:
 -
-Apple Stocks( 1999 -2024) is an R script with codes that analyze Apple's stock data (AAPL_stock_price.csv). It cleanses the dataset, provides descriptive statistics, plots some graphs, and also performs some correlation analysis.
+Apple Stocks( 1999 -2024) is an R script with codes that analyze Apple's stock data (AAPL_stock_price.csv). It cleanses the dataset, provides descriptive statistics, plots graphs, performs correlation analysis, etc.
 The Apple stocks dataset (AAPL_stock_price.csv) was downloaded from Kaggle (https://www.kaggle.com/datasets/prathamjyotsingh/apple-stocks ) and saved into my local drive or directory.
 This data set contains variables such as Apple's stock close price, high price, volume, etc which provides some 
 information on the Stock's trend, volatility, and market performance (1990 to 2024).
