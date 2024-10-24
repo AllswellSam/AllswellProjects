@@ -41,7 +41,7 @@ The minimum return of -85.49% and maximum return of 13.90% highlight some extrem
 
 References:
 -
-- Singh, P. (2024). Apple stocks [Data set]. Kaggle. Link​
+- Singh, P. (2024). Apple stocks [Data set]. Kaggle.
 - Bodie, Z., Kane, A., & Marcus, A. J. (2021). Investments (12th ed.). McGraw-Hill Education.​
 - Fama, E. F. (1970). Efficient capital markets: A review of theory and empirical work. The Journal of Finance, 25(2), 383–417. 
 - Hull, J. C. (2017). Options, futures, and other derivatives (10th ed.). Pearson.​
