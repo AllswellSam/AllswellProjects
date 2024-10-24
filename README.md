@@ -1,11 +1,9 @@
 Overview:
 -
-The Apple stocks is an R script with codes that perform some data cleaning on the apple stocks dataset,
-provides descriptive statistics on the dataset, plots some graphs and also perfomes some correlation analysis.
-The apple stocks dataset was downloaded from Kaggle (https://www.kaggle.com/datasets/prathamjyotsingh/apple-stocks )
-and saved into my local drive or directory.
-This data set contains varables such as Apple's stocks close price, high price, volume, etc which provides some 
-information on the Stock's trend, volatility and market performance over the years (1990 to 2024).
+Apple Stocks( 1999 -2024) is an R script with codes that analyze Apple's stock data (AAPL_stock_price.csv). It cleanses the dataset, provides descriptive statistics, plots some graphs, and also performs some correlation analysis.
+The Apple stocks dataset (AAPL_stock_price.csv) was downloaded from Kaggle (https://www.kaggle.com/datasets/prathamjyotsingh/apple-stocks ) and saved into my local drive or directory.
+This data set contains variables such as Apple's stock close price, high price, volume, etc which provides some 
+information on the Stock's trend, volatility, and market performance (1990 to 2024).
 
 Objectives:​
 -
@@ -27,7 +25,7 @@ How to Run the Code:
 
 Results and Conclusion:
 -
-From the Analysis, Apple's stocks showed the following between the year 1990 and 2024
+Apple's stocks showed the following characteristics between the years 1990 and 2024:
 - Consistent Long-Term Growth:​ The mean daily return of 0.08% indicates steady long-term growth in Apple's stock price. Over time, the stock tends to appreciate, though daily changes are often small.​
 
 - Significant Daily Volatility:​ With a standard deviation of 2.97%, Apple's stock shows considerable daily volatility. Although the mean return is small, there are frequent fluctuations, with potential for both gains and losses.​
